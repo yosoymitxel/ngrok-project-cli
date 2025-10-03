@@ -4,8 +4,8 @@
 # 1. Variables de Configuración (Ajustables)
 # ----------------------------------------------
 PORT_PROJECT="8080"
-NGROK_TOKEN="33VzH8RkoB1uchaxkQXGxlSpKst_3gpqLKuMeDB1tPaje1GqS" # ¡Tu clave!
-URL_PUBLICA="https://beaulah-unreiterated-neologically.ngrok-free.dev/"
+NGROK_TOKEN="YOUR_API_KEY" # ¡Tu clave!
+URL_PUBLICA="YOUR_PUBLIC_URL"
 
 # Tiempos de espera
 SLEEP_DOCKER_INIT=5  # Tiempo de espera inicial para que Docker suba (antes de la espera inteligente)
